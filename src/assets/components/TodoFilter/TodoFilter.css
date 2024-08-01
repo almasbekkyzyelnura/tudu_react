@@ -1,0 +1,19 @@
+.filter{
+    display: flex;
+    gap: 80px;
+  
+    
+}
+.all{
+    background: teal;
+    color: aliceblue;
+    border: none;
+    width: 932px;
+    height: 49px;
+
+    border-radius: 6px;
+    font-size: 20px;
+}
+.all.active{
+    background-color: rgb(48, 89, 87);
+}

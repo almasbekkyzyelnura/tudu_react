@@ -1,0 +1,14 @@
+.buttons{
+    display: flex;
+    gap: 60px;
+}
+.buttons1{
+    background: red;
+    color: aliceblue;
+    border: none;
+    width: 650px;
+    height: 49px;
+    border-radius: 6px;
+    font-size: 20px;
+    margin-top: 50px;
+}

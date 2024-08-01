@@ -1,0 +1,42 @@
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(138, 136, 136);
+    margin-top: 10px;
+    height: 49px;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.list p {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.list p.done {
+    color: brown;
+    text-decoration: line-through;
+}
+.checkbox {
+    
+    color: aliceblue;
+    border-radius: 6px;
+    border: none;
+    
+}
+
+.edid , .delete {
+    color: yellow;
+   padding: 8px 12px;
+   border: none;
+}
+
+.delete {
+    color: red;
+}
+.icons{
+    display: flex;
+    gap: 25px;
+    margin-right: 10px;
+}

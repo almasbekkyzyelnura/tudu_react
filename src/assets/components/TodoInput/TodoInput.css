@@ -1,0 +1,47 @@
+
+
+ h2 {
+    text-align: center;
+    font-size: 44px;
+    font-weight: 540;
+
+
+}
+
+.textt{
+    width: 1340px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid rgb(138, 136, 136);
+    height: 185px;
+    border-radius: 6px;
+}
+
+
+.input-text{
+    width: 1290px;
+    height: 44px;
+    margin-top: 30px;
+ 
+}
+.input-btn{
+    position: absolute;
+   width: 1290px;
+   height: 49px;
+   margin-top: 107px;
+   background: teal;
+   color: aliceblue;
+   border: none;
+   font-size: 20px;
+   border-radius: 6px;
+
+   
+}
+h6{
+    position: absolute;
+    margin-top: 35px;
+    
+    margin-left: -1250px;
+    font-size: 30px;
+}
+
